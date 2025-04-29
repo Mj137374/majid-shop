@@ -56,7 +56,7 @@ export default function Home() {
         {/* ABOUT SECTION */}
         <section className="py-20 px-6 text-center bg-white">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">About Bitastore</h2>
-          <p className="max-w-2xl mx-auto text-gray-200">
+          <p className="max-w-2xl mx-auto text-gray-600">
             At Bitastore, we bring you the latest sneaker trends with comfort and style. Whether you're into classics or bold new designs — we got your feet covered.
           </p>
         </section>
